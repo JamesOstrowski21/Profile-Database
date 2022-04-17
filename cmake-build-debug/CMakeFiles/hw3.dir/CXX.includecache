@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/engr2730fall2021/jostrowsk/homework/hw3/Profile.h
+
+H:/engr2730fall2021/jostrowsk/homework/hw3/ProfileDatabase.h
+Profile.h
+H:/engr2730fall2021/jostrowsk/homework/hw3/Profile.h
+
+H:/engr2730fall2021/jostrowsk/homework/hw3/main.cpp
+iostream
+-
+vector
+-
+Profile.h
+H:/engr2730fall2021/jostrowsk/homework/hw3/Profile.h
+ProfileDatabase.h
+H:/engr2730fall2021/jostrowsk/homework/hw3/ProfileDatabase.h
+
